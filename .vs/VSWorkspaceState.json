@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
     "",
-    "\\cypress",
-    "\\cypress\\integration",
-    "\\cypress\\integration\\3-test-cases",
-    "\\cypress\\support"
+    "\\cypress"
   ],
-  "SelectedNode": "\\cypress\\integration\\3-test-cases\\spell-check.js",
   "PreviewInSolutionExplorer": false
 }
